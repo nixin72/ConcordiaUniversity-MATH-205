@@ -4,8 +4,8 @@ This directory contains various midter exams. If you wish to upload one that's m
 
 Midterm-&lt;year&gt;-&lt;semester&gt;-\[-sample\]\[-soln\].pdf
 
-Where "&lt;year&gt;" is the year the exam took place. (if unknown, put XXXX)
-Where "&lt;semester&gt;" is the semester the exam took place (if unknown, put "U")
+- Where "&lt;year&gt;" is the year the exam took place. (if unknown, put XXXX)
+- Where "&lt;semester&gt;" is the semester the exam took place (if unknown, put "U")
     - For summer semesters, try to indicate if it's the first or second half 
 
 **NOTE**: 
