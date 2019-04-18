@@ -2,4 +2,7 @@
 
 This is a repository of material from MATH 205, containing midterm and final exams as well as slides.
 
-Please make a pull request to add exams that are missing from here if you notice any. Make sure that the files follow the naming convention so that they're easy to locate. 
+### Contributing 
+If you notice any exams especially that are missing and you have them, please make a pull request! There's guidelines in the <a href="https://github.com/phdumaresq/CC-MATH-205/tree/master/practice-midterms">midterms</a> and in the <a href="https://github.com/phdumares/CC-MATH-205/tree/master/practice-finals">finals</a> directories for naming conventions and stuff. 
+
+
