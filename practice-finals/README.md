@@ -2,10 +2,10 @@
 
 This directory contains various final exams. If you wish to upload one that's missing, please follow the following format:
 
-Final-<year>-<semester>-[-sample][-soln].pdf
+Final-&lt;year&gt;-&lt;semester&gt;-\[-sample\]\[-soln\].pdf
 
-Where "<year>" is the year the exam took place. (if unknown, put XXXX)
-Where "<semester>" is the semester the exam took place (if unknown, put "U")
+Where "&lt;year&gt;" is the year the exam took place. (if unknown, put XXXX)
+Where "&lt;semester&gt;" is the semester the exam took place (if unknown, put "U")
     - For summer semesters, try to indicate if it's the first or second half 
 
 **NOTE**: 
